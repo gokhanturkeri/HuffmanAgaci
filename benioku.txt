@@ -1,0 +1,7 @@
+Programa verdiðiniz uzantýdaki dosyayý;
+1.Seçenek ayný yere bir bat dosyasý oluþturur.
+2.Seçenek oluþturulan bat dosyasýný txt dosyasýna çevirerek ekrana yazdýrýr.
+
+
+Dosyayý sýkýþtýrdýktan sonra
+txt dosyasýný silerek 2. seçeneði deneyiniz
