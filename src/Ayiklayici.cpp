@@ -11,10 +11,10 @@ Ayiklayici::Ayiklayici(string dosya_yolu)
     }
     if(dosya_yolu.find(".bat")==string::npos)                                                     	 //.bat uzantılı dosya aranıyor
     {
-        cout<<"Hata: Dosya zaten Ayiklaulmus\n\n";
+        cout<<"Hata: Dosya zaten Ayiklanmis\n\n";
         exit(-1);
     }
-    cout<<"\nDosya Ayiklauluyor";
+    cout<<"\nDosya Ayiklaniyor";
     long long int Toplam_Frekans=0;
     char ch;
     while(girdi_dosyasi.get(ch))                                                                  //toplam frekans okunuyor
