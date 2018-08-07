@@ -1,1 +1,3 @@
 # HuffmanAgaci
+
+C++ programlama dili ile yazılan konsol uygulamasında dosya yolu verilen txt dosyası okunup Huffman Ağacı oluşturulup karakterlerin bit karşılık tablosu ve kelimelerin bit karşılıklarını oluşturulur. Daha sonra seçilen txt dosyasında bulunan kelimelerin hepsinin Huffman ağacından faydalanarak bit karşılığını yeni bir dosyaya (“Bit.dat”) yazılır. Hangi karakterin hangi bite karşılık geldiğini de ayrıca Tablo.txt dosyasına text olarak yazar. Program kapatılıp tekrar açıldığında Tablo.txt dosyasındaki tablo yardımıyla Bit.dat dosyası açılıp dosyadan bitler okunup ekrana karakter karşılıkları yazılacaktır. Dolayısıyla program başladığında iki seçnek ekrana gelmelidir.
