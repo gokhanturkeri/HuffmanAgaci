@@ -5,3 +5,5 @@ C++ programlama dili ile yazılan konsol uygulamasında 1. seçenek olarak dosya
 # Programı mingw derleyicisiyle başlatmak için;
 
 İlk önce Mingw'yi kurunuz. Sonrasında ortam değişkenlerinde PATH'e Mingw'yi kurduğunuz yerdeki bin klasörünü ekleyiniz. Daha sonra komut isteminde rar'dan çıkarttığınız klasöre geliniz ve mingw32-make yazınız.
+
+(Başlık dosyaları include içinde ve Kaynak dosyaları src içindedir.)
